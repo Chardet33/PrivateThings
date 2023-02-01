@@ -1,0 +1,15 @@
+{
+  "clientToken": "13f9d3b3-406f-466a-af34-e95330e0baf9",
+  "accounts": {
+    "a3c75846be0345049ef440fac4a913ee": {
+      "username": "chardet33",
+      "userID": "chardet33",
+      "displayName": "chardet33",
+      "uuid": "a3c75846be0345049ef440fac4a913ee",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "a3c75846be0345049ef440fac4a913ee",
+  "freeAccountUUID": "a3c75846be0345049ef440fac4a913ee"
+}
